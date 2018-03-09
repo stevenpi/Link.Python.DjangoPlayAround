@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+locallibrary/catalog/
+locallibrary/db.sqlite3
+locallibrary/locallibrary/__init__.py
+locallibrary/locallibrary/settings.py
+locallibrary/locallibrary/urls.py
+locallibrary/locallibrary/wsgi.py
+locallibrary/manage.py
+locallibrary/templates/
